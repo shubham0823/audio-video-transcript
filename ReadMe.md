@@ -26,6 +26,9 @@ A Python-based transcription system that automatically transcribes media files i
 
 2. Install dependencies:
    ```bash
+   for linux
+   
+   python3 -m venv venv
    pip install -r requirements.txt
    ```
 
